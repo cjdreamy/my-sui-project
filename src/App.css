@@ -56,3 +56,8 @@
   color: #00cc99;
   font-weight: 500;
 }
+body{
+  background: linear-gradient(75deg, rgb(21, 9, 35), rgb(43, 2, 43), rgb(1, 28, 28));
+  background-repeat: no-repeat;
+  height: 100vh;
+}
